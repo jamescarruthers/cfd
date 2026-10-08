@@ -1,0 +1,12 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.local
+*.tsbuildinfo
+.venv/
+.modal/
+__pycache__/
+*.pyc
+.env*
+.modal.toml
